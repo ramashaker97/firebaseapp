@@ -1,0 +1,7 @@
+import'package:flutter/materal.dart';
+
+void main()
+{
+  runApp(rama());
+  }
+
